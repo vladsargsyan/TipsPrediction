@@ -24,7 +24,7 @@ prediction:  [2.1369179  2.58526543 4.00032965 3.68993521 2.33757693 2.50374769
  1.99373932 2.23933761 2.99912468 2.83608922 3.90836093 3.52376445
  2.68768514]
 
- # Used libraries
+ ## Used libraries
 - Pandas is used to analyze data.
 - NumPy is used for working with arrays.
 - Plotly express is a high-level data visualization package that allows you to create interactive plots
