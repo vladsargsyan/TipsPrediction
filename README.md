@@ -1,16 +1,16 @@
-## TipsPrediction
+# Tips Prediction
 
-# Introduction to the project
+## Introduction to the project
 This project aims to predict the amount of tip likely to be given to the waiter based on various factors.
 
 
-# How to open an IPYNB file.
+## How to open an IPYNB file.
 
 1. Clone this repository to your local machine: git clone https://github.com/vladsargsyan/TipsPrediction.git
 2. Install Jupyter Notebook on your workstation. Alternatively, open the application if Jupyter Notebook is already installed
 3. Double-click the Tips.ipynb file in the Jupyter application. This should open the IPYNB file in a separate tab. Running each time you will get different output as the test size is 20% of the existing data.
 
-# Output example
+## Output example
 As the output, you can see the Scatter Linear Regression with a prediction line, a pie chart of the tips by days of the week, and finally the test accuracy and prediction.
 
 accuracy:  0.40962998456606026
@@ -24,7 +24,7 @@ prediction:  [2.1369179  2.58526543 4.00032965 3.68993521 2.33757693 2.50374769
  1.99373932 2.23933761 2.99912468 2.83608922 3.90836093 3.52376445
  2.68768514]
 
- # Used libraries
+ ## Used libraries
 - Pandas is used to analyze data.
 - NumPy is used for working with arrays.
 - Plotly express is a high-level data visualization package that allows you to create interactive plots
