@@ -6,7 +6,7 @@ This project aims to predict the amount of tip likely to be given to the waiter 
 
 ## How to open an IPYNB file.
 
-1. Clone this repository to your local machine: git clone https://github.com/vladsargsyan/craps.git
+1. Clone this repository to your local machine: git clone https://github.com/vladsargsyan/TipsPrediction.git
 2. Install Jupyter Notebook on your workstation. Alternatively, open the application if Jupyter Notebook is already installed
 3. Double-click the Tips.ipynb file in the Jupyter application. This should open the IPYNB file in a separate tab. Running each time you will get different output as the test size is 20% of the existing data.
 
