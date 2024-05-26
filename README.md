@@ -1,4 +1,4 @@
-# TipsPrediction
+# Tips Prediction
 
 ## Introduction to the project
 This project aims to predict the amount of tip likely to be given to the waiter based on various factors.
